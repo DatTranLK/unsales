@@ -1,0 +1,36 @@
+C:\SPR_2022\PRN211\BTCode\UniSales\UniSales.Repository\bin\Debug\net5.0\UniSales.Repository.deps.json
+C:\SPR_2022\PRN211\BTCode\UniSales\UniSales.Repository\bin\Debug\net5.0\UniSales.Repository.dll
+C:\SPR_2022\PRN211\BTCode\UniSales\UniSales.Repository\bin\Debug\net5.0\ref\UniSales.Repository.dll
+C:\SPR_2022\PRN211\BTCode\UniSales\UniSales.Repository\bin\Debug\net5.0\UniSales.Repository.pdb
+C:\SPR_2022\PRN211\BTCode\UniSales\UniSales.Repository\obj\Debug\net5.0\UniSales.Repository.csproj.AssemblyReference.cache
+C:\SPR_2022\PRN211\BTCode\UniSales\UniSales.Repository\obj\Debug\net5.0\UniSales.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\SPR_2022\PRN211\BTCode\UniSales\UniSales.Repository\obj\Debug\net5.0\UniSales.Repository.AssemblyInfoInputs.cache
+C:\SPR_2022\PRN211\BTCode\UniSales\UniSales.Repository\obj\Debug\net5.0\UniSales.Repository.AssemblyInfo.cs
+C:\SPR_2022\PRN211\BTCode\UniSales\UniSales.Repository\obj\Debug\net5.0\UniSales.Repository.csproj.CoreCompileInputs.cache
+C:\SPR_2022\PRN211\BTCode\UniSales\UniSales.Repository\obj\Debug\net5.0\UniSales.Repository.dll
+C:\SPR_2022\PRN211\BTCode\UniSales\UniSales.Repository\obj\Debug\net5.0\ref\UniSales.Repository.dll
+C:\SPR_2022\PRN211\BTCode\UniSales\UniSales.Repository\obj\Debug\net5.0\UniSales.Repository.pdb
+C:\Users\jike\Downloads\UniSales\UniSales.Repository\bin\Debug\net5.0\UniSales.Repository.deps.json
+C:\Users\jike\Downloads\UniSales\UniSales.Repository\bin\Debug\net5.0\UniSales.Repository.dll
+C:\Users\jike\Downloads\UniSales\UniSales.Repository\bin\Debug\net5.0\ref\UniSales.Repository.dll
+C:\Users\jike\Downloads\UniSales\UniSales.Repository\bin\Debug\net5.0\UniSales.Repository.pdb
+C:\Users\jike\Downloads\UniSales\UniSales.Repository\obj\Debug\net5.0\UniSales.Repository.csproj.AssemblyReference.cache
+C:\Users\jike\Downloads\UniSales\UniSales.Repository\obj\Debug\net5.0\UniSales.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jike\Downloads\UniSales\UniSales.Repository\obj\Debug\net5.0\UniSales.Repository.AssemblyInfoInputs.cache
+C:\Users\jike\Downloads\UniSales\UniSales.Repository\obj\Debug\net5.0\UniSales.Repository.AssemblyInfo.cs
+C:\Users\jike\Downloads\UniSales\UniSales.Repository\obj\Debug\net5.0\UniSales.Repository.csproj.CoreCompileInputs.cache
+C:\Users\jike\Downloads\UniSales\UniSales.Repository\obj\Debug\net5.0\UniSales.Repository.dll
+C:\Users\jike\Downloads\UniSales\UniSales.Repository\obj\Debug\net5.0\ref\UniSales.Repository.dll
+C:\Users\jike\Downloads\UniSales\UniSales.Repository\obj\Debug\net5.0\UniSales.Repository.pdb
+E:\FPT University\prn211\UniSales\UniSales.Repository\bin\Debug\net5.0\UniSales.Repository.deps.json
+E:\FPT University\prn211\UniSales\UniSales.Repository\bin\Debug\net5.0\UniSales.Repository.dll
+E:\FPT University\prn211\UniSales\UniSales.Repository\bin\Debug\net5.0\ref\UniSales.Repository.dll
+E:\FPT University\prn211\UniSales\UniSales.Repository\bin\Debug\net5.0\UniSales.Repository.pdb
+E:\FPT University\prn211\UniSales\UniSales.Repository\obj\Debug\net5.0\UniSales.Repository.GeneratedMSBuildEditorConfig.editorconfig
+E:\FPT University\prn211\UniSales\UniSales.Repository\obj\Debug\net5.0\UniSales.Repository.AssemblyInfoInputs.cache
+E:\FPT University\prn211\UniSales\UniSales.Repository\obj\Debug\net5.0\UniSales.Repository.AssemblyInfo.cs
+E:\FPT University\prn211\UniSales\UniSales.Repository\obj\Debug\net5.0\UniSales.Repository.csproj.CoreCompileInputs.cache
+E:\FPT University\prn211\UniSales\UniSales.Repository\obj\Debug\net5.0\UniSales.Repository.dll
+E:\FPT University\prn211\UniSales\UniSales.Repository\obj\Debug\net5.0\ref\UniSales.Repository.dll
+E:\FPT University\prn211\UniSales\UniSales.Repository\obj\Debug\net5.0\UniSales.Repository.pdb
+E:\FPT University\prn211\UniSales\UniSales.Repository\obj\Debug\net5.0\UniSales.Repository.csproj.AssemblyReference.cache
